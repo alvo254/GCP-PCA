@@ -1,0 +1,3 @@
+- Compute Engine is Google’s infrastructure-­as-­a-­service (IaaS) offering.
+- Running virtual machines (VMs) in Google Cloud Platform is also known as an instance.
+- 
